@@ -1,0 +1,18 @@
+{
+  "name": "next-generation-db-resume-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "mongoose": "^8.5.1",
+    "pdf-parse": "^1.1.1",
+    "@google/generative-ai": "^0.15.0"
+  }
+}
