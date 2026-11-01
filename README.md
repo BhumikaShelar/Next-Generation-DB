@@ -1,4 +1,4 @@
-# Next Generation Database - Resume Analyzer
+# AI-Resume Analyzer
 
 An AI-powered ATS (Applicant Tracking System) Resume Analyzer built with **Next.js**, **MongoDB**, and **Google Gemini AI**.
 
